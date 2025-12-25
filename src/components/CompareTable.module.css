@@ -1,0 +1,44 @@
+.tableWrapper {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+}
+
+.tableWrapper table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.tableWrapper th,
+.tableWrapper td {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.tableWrapper th {
+  background: #f1f5f9;
+  font-weight: 600;
+}
+
+.tableWrapper button {
+  border: none;
+  padding: 6px 8px;
+  border-radius: 6px;
+  background: #e2e8f0;
+  cursor: pointer;
+}
+
+.equipmentCell {
+  min-width: 200px;
+}
+
+.empty {
+  padding: 12px;
+  border-radius: 12px;
+  background: #f8fafc;
+  border: 1px dashed #e2e8f0;
+  font-size: 14px;
+}

@@ -1,0 +1,71 @@
+.card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 16px;
+  display: grid;
+  gap: 16px;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+}
+
+.card header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.code {
+  margin: 0;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #64748b;
+  letter-spacing: 0.08em;
+}
+
+.inactive {
+  background: #fee2e2;
+  color: #991b1b;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.card dl {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+}
+
+.card dl div {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+.card ul {
+  padding-left: 18px;
+  margin: 8px 0 0;
+}
+
+.compareButton {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-weight: 600;
+  background: #0f172a;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.emptyState {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 16px;
+  border: 1px dashed #cbd5f5;
+}
+
+.muted {
+  color: #94a3b8;
+  font-size: 14px;
+}
