@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+  <rect x="20" y="20" width="960" height="560" fill="#f8fafc" stroke="#cbd5f5" stroke-width="4" />
+  <rect id="room-a-101" x="60" y="60" width="200" height="140" rx="12" />
+  <rect id="room-a-102" x="300" y="60" width="200" height="140" rx="12" />
+  <rect id="room-a-103" x="540" y="60" width="200" height="140" rx="12" />
+  <rect id="room-a-104" x="780" y="60" width="180" height="140" rx="12" />
+
+  <rect id="room-a-105" x="60" y="230" width="200" height="140" rx="12" />
+  <rect id="room-a-106" x="300" y="230" width="200" height="140" rx="12" />
+  <rect id="room-a-107" x="540" y="230" width="200" height="140" rx="12" />
+  <rect id="room-a-108" x="780" y="230" width="180" height="140" rx="12" />
+
+  <rect id="room-a-109" x="60" y="400" width="200" height="140" rx="12" />
+  <rect id="room-a-110" x="300" y="400" width="200" height="140" rx="12" />
+  <rect id="room-a-111" x="540" y="400" width="200" height="140" rx="12" />
+  <rect id="room-a-112" x="780" y="400" width="180" height="140" rx="12" />
+</svg>
